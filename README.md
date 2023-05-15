@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sekerhalithamza](https://github.com/sekerhalithamza)
+- 👨‍💻 All of my projects are available at [my github profile](https://github.com/sekerhalithamza)
 
 - 📫 How to reach me **shalithamza@gmail.com**
 
