@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 16 year old software developer.<br>I'm learning JavaScript currently.<br>I'm looking to collaborate in web and AI projects.<br>You can connect me with [e-mail](shalithamza@gmail.com).
+I'm a 16 year old software developer.<br>I'm learning Node.js currently.<br>I'm looking to collaborate in web and AI projects.<br>You can connect me with [e-mail](shalithamza@gmail.com).
 
 
 ## 🌐 Socials:
