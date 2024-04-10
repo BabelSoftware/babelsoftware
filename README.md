@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Halit Hamza</h1>
 <h3 align="center">A passionate fullstack developer from Türkiye</h3>
 
-- 🌱 I’m currently working on **[Mackolik-Rebuild](https://github.com/sekerhalithamza/mackolik-rebuild)**
+- 🌱 I’m currently learning on **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sekerhalithamza](https://github.com/sekerhalithamza)
 
